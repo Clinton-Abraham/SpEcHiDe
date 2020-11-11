@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [Shrimadhav LinkedIN](https://www.linkedin.com/in/shrimadhav/) | [SpEcHIDe Twitter](https://twitter.com/SpEcHiDe) | [SpEcHIDe YouTube](https://www.youtube.com/c/SpEcHIDe) | [Shrimadhav U K Quora](https://www.quora.com/profile/Shrimadhav-Unnikrishnan-Kuruvanthody) | [Shrimadhav U K Portfolio](https://www.shrimadhavuk.me) | [SpEcHlDe Telegram](https://telegram.dog/SpEcHlDe)
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cyberboysumanjay/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/spechide/&title=Profile%20Views)
 
 
 ### Stats ⚡️
